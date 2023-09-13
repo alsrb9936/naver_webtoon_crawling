@@ -10,7 +10,8 @@
 - 웹툰 url
 - 웹툰 장르 키워드
 
-CSV 파일 
+CSV 파일
+![csv 파일 예시 이미지](./static/readme_img.png "csv 형식")
 - webtoon_com.csv 최종파일
 - title, author , rating, image (이미지 주소) , url, genre
 
